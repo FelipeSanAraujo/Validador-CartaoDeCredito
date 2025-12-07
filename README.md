@@ -19,5 +19,5 @@ Também realiza validações básicas como o **Algoritmo de Luhn**.
 
 ## 🚀 Tecnologias
 
-- **.NET (.NET 8)**
+- **.NET (.NET 10)**
 - C#
