@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ValidadorCartoes/1.0.0": {
+        "runtime": {
+          "ValidadorCartoes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ValidadorCartoes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

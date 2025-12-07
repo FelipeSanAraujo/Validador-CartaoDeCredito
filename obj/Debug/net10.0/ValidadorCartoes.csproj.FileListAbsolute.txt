@@ -1,0 +1,14 @@
+C:\Users\Felipe\Desktop\DIO\Desafio ValidadorCartao\src\ValidadorCartoes\bin\Debug\net10.0\ValidadorCartoes.exe
+C:\Users\Felipe\Desktop\DIO\Desafio ValidadorCartao\src\ValidadorCartoes\bin\Debug\net10.0\ValidadorCartoes.deps.json
+C:\Users\Felipe\Desktop\DIO\Desafio ValidadorCartao\src\ValidadorCartoes\bin\Debug\net10.0\ValidadorCartoes.runtimeconfig.json
+C:\Users\Felipe\Desktop\DIO\Desafio ValidadorCartao\src\ValidadorCartoes\bin\Debug\net10.0\ValidadorCartoes.dll
+C:\Users\Felipe\Desktop\DIO\Desafio ValidadorCartao\src\ValidadorCartoes\bin\Debug\net10.0\ValidadorCartoes.pdb
+C:\Users\Felipe\Desktop\DIO\Desafio ValidadorCartao\src\ValidadorCartoes\obj\Debug\net10.0\ValidadorCartoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Desktop\DIO\Desafio ValidadorCartao\src\ValidadorCartoes\obj\Debug\net10.0\ValidadorCartoes.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\DIO\Desafio ValidadorCartao\src\ValidadorCartoes\obj\Debug\net10.0\ValidadorCartoes.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\DIO\Desafio ValidadorCartao\src\ValidadorCartoes\obj\Debug\net10.0\ValidadorCartoes.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\DIO\Desafio ValidadorCartao\src\ValidadorCartoes\obj\Debug\net10.0\ValidadorCartoes.dll
+C:\Users\Felipe\Desktop\DIO\Desafio ValidadorCartao\src\ValidadorCartoes\obj\Debug\net10.0\refint\ValidadorCartoes.dll
+C:\Users\Felipe\Desktop\DIO\Desafio ValidadorCartao\src\ValidadorCartoes\obj\Debug\net10.0\ValidadorCartoes.pdb
+C:\Users\Felipe\Desktop\DIO\Desafio ValidadorCartao\src\ValidadorCartoes\obj\Debug\net10.0\ValidadorCartoes.genruntimeconfig.cache
+C:\Users\Felipe\Desktop\DIO\Desafio ValidadorCartao\src\ValidadorCartoes\obj\Debug\net10.0\ref\ValidadorCartoes.dll
